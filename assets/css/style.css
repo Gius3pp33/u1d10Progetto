@@ -1,1 +1,135 @@
-/* Your styles here */
+header {
+    background-color: rgb(4, 49, 78);
+    height: 10vh;
+    text-align: left;
+}
+
+#logo {
+    margin: 15px auto;
+    height: 5vh;
+}
+
+ul {
+    text-align: left;
+    background-color: rgb(6, 62, 107);
+    font-style: Arial;
+
+}
+
+li {
+    display: inline;
+    margin-right: 3%;
+    color: white;
+}
+
+body {
+    background-color: white;
+    margin: auto;
+
+}
+
+#oj {
+    background-color: rgb(228, 91, 11);
+    margin-top: 2%;
+    text-align: center;
+    color: white;
+    font-style: Arial;
+    height: 30px;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: medium;
+    padding-top: 1%;
+
+}
+
+.image-blue {
+    background-image: url(../images/bg-image.png);
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 30px;
+    height: 200px;
+    text-align: center;
+    color: white;
+
+}
+
+h1 {
+    padding-top: 5%;
+    font-size: xx-large;
+    font-style: Arial;
+}
+
+#under {
+    margin-top: 30px;
+    font-style: Arial;
+}
+
+
+
+
+
+.visore {
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.visore img {
+    width: 1600px;
+    height: 450px;
+}
+
+#foto {
+    width: 300px;
+    height: 300px;
+    margin: 110px;
+    margin-left: 15%;
+    border-radius: 15%;
+
+}
+
+.cassa {
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.cassa img {
+    width: 1600px;
+    height: 450px;
+}
+
+h2 {
+    margin-left: 2%;
+    font-style: Arial;
+}
+
+#blue {
+
+    margin-left: 2%;
+    color: #25a2c3;
+    font-size: small;
+}
+
+.torna-su {
+    margin-top: 2%;
+    background-color: rgb(6, 60, 97);
+    text-align: center;
+    color: white;
+    padding-top: 1%;
+    font-size: medium;
+
+}
+
+a {
+    color: white;
+    font-size: large;
+    font-style: Arial;
+}
+
+.end {
+    background-color: rgb(4, 49, 78);
+    text-align: center;
+    width: 1700px;
+    height: 550px;
+    margin-top: 0%;
+    margin-right: -10%;
+}
