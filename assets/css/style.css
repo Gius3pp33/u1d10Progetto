@@ -98,15 +98,16 @@ h1 {
 }
 
 h2 {
-    margin-left: 2%;
+    text-align: center;
     font-style: Arial;
 }
 
 #blue {
 
-    margin-left: 2%;
+    text-align: center;
     color: #25a2c3;
     font-size: small;
+    font-style: Arial;
 }
 
 .torna-su {
@@ -132,4 +133,19 @@ a {
     height: 550px;
     margin-top: 0%;
     margin-right: -10%;
+}
+
+h3 {
+    text-align: left;
+    font-style: Arial;
+    margin-left: 2%;
+
+}
+#blue1 {
+
+    text-align: left;
+    color: #25a2c3;
+    font-size: small;
+    font-style: Arial;
+    margin-left: 2%;
 }
